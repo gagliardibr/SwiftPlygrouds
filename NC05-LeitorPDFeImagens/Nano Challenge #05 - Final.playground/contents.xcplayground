@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playground requires-full-environment="false" version="6.0" target-platform="ios">
+    <pages>
+        <page name="Challenge 5 - PDF Final"/>
+        <page name="Challenge 5 - Imagens Final"/>
+    </pages>
+</playground>
